@@ -1,3 +1,4 @@
+#initial version from which learning starts 1)
 from fastapi import FastAPI
 from typing import Optional
 from pydantic import BaseModel
